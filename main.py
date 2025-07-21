@@ -13,6 +13,8 @@ class Lexer:
         Define los tokens a reconocer y crea estructuras para almacenar los resultados.
         """
 
+
+        
         # Lista de tokens con sus respectivas expresiones regulares
         # Cada token tiene un número asociado para identificar su tipo
         self.tokens = [
