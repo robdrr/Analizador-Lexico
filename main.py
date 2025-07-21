@@ -8,7 +8,7 @@ from collections import defaultdict
 # Definimos la clase 'Lexer', que será nuestro analizador léxico
 class Lexer:
     def __init__(self):
-        """
+        """    
         Constructor de la clase Lexer.
         Define los tokens a reconocer y crea estructuras para almacenar los resultados.
         """
