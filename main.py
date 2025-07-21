@@ -3,7 +3,7 @@ import re
 
 # Importamos 'defaultdict' de la librería 'collections'
 # Nos permite crear un diccionario que devuelve un valor por defecto si una clave no existe
-from collections import defaultdict  
+from collections import defaultdict        
 
 # Definimos la clase 'Lexer', que será nuestro analizador léxico
 class Lexer:
