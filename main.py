@@ -44,6 +44,7 @@ class Lexer:
         # Lista para almacenar los errores léxicos encontrados
         self.errors = []
 
+        
         # Lista donde almacenaremos los tokens reconocidos junto con su tipo
         self.matches = []
 
